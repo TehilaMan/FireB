@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681951984515",
+    "project_id": "fireb-f7826",
+    "storage_bucket": "fireb-f7826.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681951984515:android:6c0e5da2707fc22471d4b6",
+        "android_client_info": {
+          "package_name": "com.example.fireb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQwu0JvjJtB9GNMB99HL_beisw9bCweI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
